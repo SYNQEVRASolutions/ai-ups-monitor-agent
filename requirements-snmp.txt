@@ -1,0 +1,2 @@
+# Only needed for real hardware polling (--host). Simulation mode uses the standard library.
+pysnmp>=5.0.0
